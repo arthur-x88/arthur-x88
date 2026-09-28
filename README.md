@@ -13,3 +13,4 @@ I build ML systems on live production data where wrong predictions cost real mon
 
 - Kaggle: `hyper88` — top 10 Halite I & II, top 1 in Europe Two Sigma challenge
 - LinkedIn: [linkedin.com/in/arde88](https://www.linkedin.com/in/arde88)
+- Email: arturo [at] poke [dot] com
