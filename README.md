@@ -1,6 +1,8 @@
 # Arturo De Pablo
 
-ML engineer. I build ML systems on live production data where wrong predictions cost real money.
+**ML Engineer & Founder — Rust · LLMs · Hyperliquid market data · HFT / market microstructure**
+
+I build ML systems on live production data where wrong predictions cost real money. 10+ years in AI: frontier models, quant systems, talent scouting.
 
 ## Currently building
 
